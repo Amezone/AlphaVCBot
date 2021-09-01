@@ -31,7 +31,7 @@ Get STRING_NAME from here:  [![GenerateString](https://img.shields.io/badge/repl
 
 
 
-## Commands 🛠
+## Commands 
 
 - `/play <song name>` - play song you requested
 - `/dplay <song name>` - play song you requested via deezer
@@ -54,7 +54,7 @@ Get STRING_NAME from here:  [![GenerateString](https://img.shields.io/badge/repl
 - `/userbotleave` - remove assistant from your chat
 - `/admincache` - Refresh admin list
 
-### Commands for Channel Music Play 🛠
+### Commands for Channel Music Play 
 For linked group admins only:
 - `/cplay <song name>` - play song you requested
 - `/cplay <reply to link>` - play replied youtube link
@@ -78,7 +78,7 @@ If you donlt like to play in linked channel:
  4. add helper to channel
  5. Simply send commands in your group.
 
-### Commands for Sudo Users ⚔️
+### Commands for Sudo Users 
 - `/userbotleaveall` - remove assistant from all chats
 - `/gcast <reply to message>` - globally brodcast replied message to all chats
 - `/pmpermit [on/off]` - enable/disable pmpermit message
