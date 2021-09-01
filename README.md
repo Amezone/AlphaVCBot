@@ -90,5 +90,5 @@ If you donlt like to play in linked channel:
 
 #### Special Credits
 - [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
-- [Awesome Bot](http://t.me/BOT_LAB_Ch) Channel bot list
+- [Bot Lab Channel](http://t.me/BOT_LAB_Ch) Channel bot list
 - [Guddu Bhai](https://t.me/Guddu_bhai99) Hero owner of this bot
